@@ -1,0 +1,234 @@
+{
+  "exportType": "fusionWidgets",
+  "exportVersion": 1,
+  "widgets": [
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Netflix Shows",
+                    "listSlug": "latest-netflix-shows",
+                    "traktId": 33032846,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Netflix Movies",
+                    "listSlug": "latest-netflix-movies",
+                    "traktId": 33032847,
+                    "username": "snoak"
+                  }
+                }
+              ],
+              "hideTitle": true,
+              "id": "75663BC1-2750-4FE0-8822-8AC7723A4980",
+              "imageAspect": "square",
+              "imageURL": "https://i.postimg.cc/3R9D8yrK/netflix.png",
+              "title": "Netflix"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Apple TV+ Shows",
+                    "listSlug": "latest-apple-tv-shows",
+                    "traktId": 33032855,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Apple TV+ Movies",
+                    "listSlug": "latest-apple-tv-movies",
+                    "traktId": 33032858,
+                    "username": "snoak"
+                  }
+                }
+              ],
+              "hideTitle": true,
+              "id": "5F755BC6-938E-412A-8716-F22359DA776A",
+              "imageAspect": "square",
+              "imageURL": "https://i.postimg.cc/j5vJxWqT/apple-tv.png",
+              "title": "Apple TV"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Amazon Prime Shows",
+                    "listSlug": "latest-amazon-prime-shows",
+                    "traktId": 33032850,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Amazon Prime Movies",
+                    "listSlug": "latest-amazon-prime-movies",
+                    "traktId": 33032854,
+                    "username": "snoak"
+                  }
+                }
+              ],
+              "hideTitle": true,
+              "id": "97405D27-98FD-4382-86F9-699F0F780E3C",
+              "imageAspect": "square",
+              "imageURL": "https://i.postimg.cc/JzkSVMTy/prime-video.png",
+              "title": "Prime Video"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Disney+ Movies",
+                    "listSlug": "latest-disney-movies",
+                    "traktId": 33032861,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Disney+ Shows",
+                    "listSlug": "latest-disney-shows",
+                    "traktId": 33032860,
+                    "username": "snoak"
+                  }
+                }
+              ],
+              "hideTitle": true,
+              "id": "50B979DC-0D0B-4BD4-8376-8719C7DA4A96",
+              "imageAspect": "square",
+              "imageURL": "https://i.postimg.cc/pTknW9VP/disney.png",
+              "title": "Disney+"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest HBO Max Movies",
+                    "listSlug": "latest-hbo-max-movies",
+                    "traktId": 33032875,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest HBO Max Shows",
+                    "listSlug": "latest-hbo-max-shows",
+                    "traktId": 33032872,
+                    "username": "snoak"
+                  }
+                }
+              ],
+              "hideTitle": true,
+              "id": "01802A84-06B5-42F6-8DC1-CBC8343D876B",
+              "imageAspect": "square",
+              "imageURL": "https://i.postimg.cc/3R9D8yr8/hbo-max.png",
+              "title": "HBO Max"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Paramount+ Movies",
+                    "listSlug": "latest-paramount-movies",
+                    "traktId": 33032868,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Paramount+ Shows",
+                    "listSlug": "latest-paramount-shows",
+                    "traktId": 33032863,
+                    "username": "snoak"
+                  }
+                }
+              ],
+              "hideTitle": true,
+              "id": "80C63B01-93BE-41D2-B420-1C5A41E7C0F8",
+              "imageAspect": "square",
+              "imageURL": "https://i.postimg.cc/gJ46zwcm/paramount.png",
+              "title": "Paramount+"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Hulu Movies",
+                    "listSlug": "latest-hulu-movies",
+                    "traktId": 33118923,
+                    "username": "snoak"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Latest Hulu Shows",
+                    "listSlug": "latest-hulu-shows",
+                    "traktId": 33118912,
+                    "username": "snoak"
+                  }
+                }
+              ],
+              "hideTitle": true,
+              "id": "C8649248-F3D8-48A3-9EC8-76E7B2916331",
+              "imageAspect": "square",
+              "imageURL": "https://i.postimg.cc/bNM4BsR1/hulu.png",
+              "title": "Hulu"
+            },
+            {
+              "dataSources": [
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Peacock Movies",
+                    "listSlug": "peacock-movies",
+                    "traktId": 30504299,
+                    "username": "tvgeniekodi"
+                  }
+                },
+                {
+                  "kind": "traktList",
+                  "payload": {
+                    "listName": "Peacock Shows",
+                    "listSlug": "peacock-shows",
+                    "traktId": 30504294,
+                    "username": "tvgeniekodi"
+                  }
+                }
+              ],
+              "hideTitle": true,
+              "id": "E95D4F57-0A57-47C2-A65B-62E65D90101E",
+              "imageAspect": "square",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/streaming/square/orangebyte/original/peacock-square.png",
+              "title": "Peacock"
+            }
+          ]
+        }
+      },
+      "id": "collection.247240CC-B54C-47F1-92DF-0D7BB13F8649",
+      "title": "Latest Streaming Services",
+      "type": "collection.row"
+    }
+  ]
+}
