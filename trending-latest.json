@@ -1,0 +1,110 @@
+[
+  {
+    "backgroundImageURL": "https://pub-5de9662550ff41bca7508b795bbd31bd.r2.dev/fusion/08f5b8b4-ca07-4307-a70a-e43933af8dab/images/01-trending-movies-landscape.png",
+    "hideTitle": true,
+    "id": "4F2D7113-E7BA-4B67-8D73-9F601576B42A",
+    "layout": "wide",
+    "name": "Trending Movies",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Trakt's Trending Movies",
+          "listSlug": "trakt-s-trending-movies",
+          "traktId": 33032593,
+          "username": "snoak"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Trakt's Trending Movies",
+        "listSlug": "trakt-s-trending-movies",
+        "traktId": 33032593,
+        "username": "snoak"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://pub-5de9662550ff41bca7508b795bbd31bd.r2.dev/fusion/08f5b8b4-ca07-4307-a70a-e43933af8dab/images/02-trakt-s-trending-shows-landscape.png",
+    "hideTitle": true,
+    "id": "6F91CB2B-8D1F-4F91-85F2-E8BAD3D107DE",
+    "layout": "wide",
+    "name": "Trending Shows",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Trakt's Trending Shows",
+          "listSlug": "trakt-s-trending-shows",
+          "traktId": 33032820,
+          "username": "snoak"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Trakt's Trending Shows",
+        "listSlug": "trakt-s-trending-shows",
+        "traktId": 33032820,
+        "username": "snoak"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://pub-5de9662550ff41bca7508b795bbd31bd.r2.dev/fusion/08f5b8b4-ca07-4307-a70a-e43933af8dab/images/03-latest-streaming-movies-landscape.png",
+    "hideTitle": true,
+    "id": "BBC6C3C2-4A9A-4DFD-8724-EAE61D77E6A6",
+    "layout": "wide",
+    "name": "Latest Movies",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Latest Streaming Movies",
+          "listSlug": "latest-streaming-movies",
+          "traktId": 33032845,
+          "username": "snoak"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Latest Streaming Movies",
+        "listSlug": "latest-streaming-movies",
+        "traktId": 33032845,
+        "username": "snoak"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://pub-5de9662550ff41bca7508b795bbd31bd.r2.dev/fusion/08f5b8b4-ca07-4307-a70a-e43933af8dab/images/04-latest-shows-landscape.png",
+    "hideTitle": true,
+    "id": "321B7F31-377D-4287-9B00-56E2B07C1D72",
+    "layout": "wide",
+    "name": "Latest Shows",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Latest Shows",
+          "listSlug": "latest-shows",
+          "traktId": 33032842,
+          "username": "snoak"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Latest Shows",
+        "listSlug": "latest-shows",
+        "traktId": 33032842,
+        "username": "snoak"
+      }
+    }
+  }
+]
