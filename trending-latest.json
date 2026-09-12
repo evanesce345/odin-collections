@@ -1,6 +1,6 @@
 [
   {
-    "backgroundImageURL": "https://pub-5de9662550ff41bca7508b795bbd31bd.r2.dev/fusion/08f5b8b4-ca07-4307-a70a-e43933af8dab/images/01-trending-movies-landscape.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/evanesce345/odin-collections/refs/heads/main/images/trending-movies.png",
     "hideTitle": true,
     "id": "4F2D7113-E7BA-4B67-8D73-9F601576B42A",
     "layout": "wide",
@@ -27,7 +27,7 @@
     }
   },
   {
-    "backgroundImageURL": "https://pub-5de9662550ff41bca7508b795bbd31bd.r2.dev/fusion/08f5b8b4-ca07-4307-a70a-e43933af8dab/images/02-trakt-s-trending-shows-landscape.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/evanesce345/odin-collections/refs/heads/main/images/trending-shows.png",
     "hideTitle": true,
     "id": "6F91CB2B-8D1F-4F91-85F2-E8BAD3D107DE",
     "layout": "wide",
@@ -54,7 +54,7 @@
     }
   },
   {
-    "backgroundImageURL": "https://pub-5de9662550ff41bca7508b795bbd31bd.r2.dev/fusion/08f5b8b4-ca07-4307-a70a-e43933af8dab/images/03-latest-streaming-movies-landscape.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/evanesce345/odin-collections/refs/heads/main/images/latest-movies.png",
     "hideTitle": true,
     "id": "BBC6C3C2-4A9A-4DFD-8724-EAE61D77E6A6",
     "layout": "wide",
@@ -81,7 +81,7 @@
     }
   },
   {
-    "backgroundImageURL": "https://pub-5de9662550ff41bca7508b795bbd31bd.r2.dev/fusion/08f5b8b4-ca07-4307-a70a-e43933af8dab/images/04-latest-shows-landscape.png",
+    "backgroundImageURL": "https://raw.githubusercontent.com/evanesce345/odin-collections/refs/heads/main/images/latest-shows.png",
     "hideTitle": true,
     "id": "321B7F31-377D-4287-9B00-56E2B07C1D72",
     "layout": "wide",
